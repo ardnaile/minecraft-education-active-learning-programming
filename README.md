@@ -1,3 +1,5 @@
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) 
+
 # Jogos Digitais e Aprendizado Ativo: uma abordagem para o ensino de lógica de programação
 
 Repositório com materiais utilizados em uma pesquisa sobre o uso do Minecraft Education no ensino introdutório de programação, com foco em metodologias de aprendizagem ativa.
