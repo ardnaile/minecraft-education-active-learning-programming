@@ -39,6 +39,17 @@ Contém os formulários aplicados antes e após as atividades.
 
 Contém scripts e notebooks Python utilizados na análise dos dados da pesquisa.
 
+## Sobre o Minecraft Education
+
+As atividades deste repositório foram desenvolvidas utilizando o Minecraft Education, versão educacional do jogo Minecraft voltada para ensino e aprendizagem.
+
+Alguns dos mapas utilizados nas atividades foram disponibilizados pelo próprio Minecraft Education e utilizados como material de apoio pedagógico durante a aplicação das aulas.
+
+Mais informações:
+
+- Minecraft Education: https://education.minecraft.net/
+- Programação com Python no Minecraft Education: https://education.minecraft.net/en-us/resources/computer-science-subject-kit/python-101
+
 ## Licença
 
 Este repositório está licenciado sob a licença Creative Commons Attribution 4.0 International. Os materiais podem ser compartilhados e adaptados para fins educacionais e acadêmicos, desde que a autoria seja devidamente atribuída.
